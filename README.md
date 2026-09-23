@@ -57,7 +57,7 @@ Vue de coté avec les 2 *shields* sur l'Arduino UNO-R3 pour:
 
 ![Boussole-Guidage-Vocal-B.jpg](Boussole-Guidage-Vocal-B.jpg)
 
-Vue de coté avec le bloc d'alimentation de 10400 mAh sous 5 Volts
+Vue de coté avec le bloc d'alimentation de 10400 mAh sous 5 Volts et les 2 *shields* sur l'Arduino UNO-R3
 
 ![Boussole-Guidage-Vocal-C.jpg](Boussole-Guidage-Vocal-C.jpg)
 
