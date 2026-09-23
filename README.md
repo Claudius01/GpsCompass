@@ -58,7 +58,7 @@ Vue de coté avec les 2 *shields* sur l'Arduino UNO-R3 pour:
 * La gestion du module GPS
 * La gestion de la Clé USB
 
-![Boussole-Guidage-Vocal-B.jpg](Boussole-Guidage-Vocal-B.jpg)
+![Lea3.jpg](Lea3.jpg)
 
 Vue de coté avec le bloc d'alimentation de 10400 mAh sous 5 Volts situé au dessous de la platine ESP32-WROOM-32D et les 2 *shields* sur l'Arduino UNO-R3
 
