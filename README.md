@@ -7,7 +7,7 @@ Ensemble du projet dans son boitier où l'on peut voir:
   * Depuis, une version avec un [WT2003S](https://www.lextronic.fr/module-grove-mp3-107020069-56926.html) a éte implémentée en remplacement du KT403A qui n'est plus commercialisé
 * Le module Bluetooth avec les 2 oreillettes sans fil
   * A noter qu'une oreillette avec fils peut être connectée car l'autonomie des oreillettes Bluetooth n'excéde malheureusement pas 2 à 3 heures
-* Le bouton poussoir et rotatif KY-80 qui est l'unique interface Homme/Machine pour notamment inverser le sens de la trace GPS à suivre en fonction des directives vocales
+* Le bouton poussoir et rotatif KY-80 qui est l'unique interface Homme/Machine pour notamment inverser le sens de la trace GPS à suivre en fonction des directives vocales et régler le volume de diffusion
 
 ![Boussole-Guidage-Vocal-A.jpg](Boussole-Guidage-Vocal-A.jpg)
 
