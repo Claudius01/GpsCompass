@@ -24,6 +24,9 @@ Cette boussole fournit les informations et fonctionnalités suivantes; à savoir
 🔔 A noter que le cap est pertinent dans les trames GPS si la vitesse de déplacement n'est pas nulle auquel cas le cap horaire par rapport au déplacement est synthétisé parmi 12 orientations horaires relatives (ie. Quatorze heures), sinon c'est le cap absolu de la rose des vents qui est synthétisé parmi 16 orientations absolues (ie. Sud-Sud-Est).
 
  - La direction à prendre pour suivre un itinéraire donné (distance et cap sur ou par rapport au tracé, distance avant une bifurcation, distance et cap à suivre après une bifurcation, etc.) ou pour rejoindre à vol d'oiseau une position donnée et qui sera issue d'une trace GPS préalablement enregistrée ou mémorisée
+
+🔔 Tous les algorithmes de détermination de la position réelle par rapport à la position à suivre ont été développé au moyen de la [calculatrice Desmos en ligne interactive](https://www.desmos.com/calculator/c7231d5c63?lang=fr) puis portés en Langage C et implémentés sur la platine ESP32-WROOM-32D
+
  - L'heure et le temps estimés pour rejoindre la position d'arrivée et ce, en fonction de l'allure et le profil du terrain constatés au cours de la randonnée
  - La synthèse de la distance à vol d'oiseau et le cap à la ville ou à la commune la plus proche de la position courante parmi plus de 450 villes et communes de la France métropolitaine
  - Les consignes vocales par rapport au tracé à suivre sont déterminées en temps réel sans préchargement préalable et ce quelle que soit la position géographique où l'on se situe. En particulier, aucune connexion Internet n'est nécessaire pour synthétiser ces consignes
