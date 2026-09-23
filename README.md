@@ -1,5 +1,12 @@
 # GpsCompass
 
+Ensemble du projet dans son boitier où l'on peut voir:
+* La platine ESP32-WROOM-32D de chez Espressif avec les 3 Leds de présentation Verte, Jaune et Rouge
+* L'Arduino UNO-R3 qui gère le module GPS et la Clé USB pour la lecture et l'enregistrement des traces GPS au format GPX et qui communique en UART avec la platine ESP32-WROOM-32D
+* Le Serial MP3 Player avec sa carte SD qui contient l'ensemble des prompts à diffuser
+* Le module Bluetooth avec les 2 oreillettes sans fil
+* Le bouton poussoir et rotatif qui est l'unique interface Homme/Machine pour notamment inverser le sens de la trace GPS à suivre en fonction des directives vocales
+
 ![Boussole-Guidage-Vocal-A.jpg](Boussole-Guidage-Vocal-A.jpg)
 
 # Présentation du projet
@@ -42,6 +49,13 @@ Les caractéristiques de cette boussole sont :
 
 🔔 La partie GPS (enregistreur de traces et parcours de référence sur clé USB) est le bloc fonctionnel du projet Enregistreur de traces GPS raccordé à un nouveau bloc à base d'un ESP32 qui réalise tous les traitements et le pilotage d'un lecteur MP3 série relié à un transmetteur Bluetooth permettant une restitution vocale au moyen d'oreillettes sans fil.
 
+Vue de coté avec les 2 *shields* sur l'Arduino UNO-R3 pour:
+* La gestion du module GPS
+* La gestion de la Clé USB
+
 ![Boussole-Guidage-Vocal-B.jpg](Boussole-Guidage-Vocal-B.jpg)
+
+Vue de coté avec le bloc d'alimentation de 10400 mAh sous 5 Volts
+
 ![Boussole-Guidage-Vocal-C.jpg](Boussole-Guidage-Vocal-C.jpg)
 
