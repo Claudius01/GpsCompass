@@ -3,7 +3,7 @@
 Ensemble du projet dans son boitier où l'on peut voir:
 * La platine ESP32-WROOM-32D de chez Espressif avec les 3 Leds de présentation Verte, Jaune et Rouge
 * L'Arduino UNO-R3 qui gère le module GPS et la Clé USB pour la lecture et l'enregistrement des traces GPS au format GPX et qui communique en UART avec la platine ESP32-WROOM-32D
-* Le Serial MP3 Player avec sa carte SD qui contient l'ensemble des prompts à diffuser
+* Le Serial MP3 Player à base d'un circuit KT403A avec sa carte SD qui contient l'ensemble des prompts à diffuser (près de 600 prompts enregistrés)
 * Le module Bluetooth avec les 2 oreillettes sans fil
 * Le bouton poussoir et rotatif qui est l'unique interface Homme/Machine pour notamment inverser le sens de la trace GPS à suivre en fonction des directives vocales
 
