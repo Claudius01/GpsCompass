@@ -6,7 +6,7 @@ Ensemble du projet dans son boitier où l'on peut voir:
 * Le Serial MP3 Player à base dans sa version KT403A avec sa carte SD qui contient l'ensemble des prompts à diffuser (près de 600 prompts enregistrés)
   * Depuis, une version avec un WT2003S a éte implémentée en remplacement du KT403A qui n'est plus commercialisé
 * Le module Bluetooth avec les 2 oreillettes sans fil
-  * A noter qu'une oreillette avec fils peut être connectée car l'autonomie des oreillettes Bluetooth n'excéde pas malheureusement 2 à 3 heures
+  * A noter qu'une oreillette avec fils peut être connectée car l'autonomie des oreillettes Bluetooth n'excéde malheureusement pas 2 à 3 heures
 * Le bouton poussoir et rotatif KY-80 qui est l'unique interface Homme/Machine pour notamment inverser le sens de la trace GPS à suivre en fonction des directives vocales
 
 ![Boussole-Guidage-Vocal-A.jpg](Boussole-Guidage-Vocal-A.jpg)
