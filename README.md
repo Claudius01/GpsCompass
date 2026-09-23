@@ -3,7 +3,7 @@
 Ensemble du projet dans son boitier où l'on peut voir:
 * La platine ESP32-WROOM-32D de chez Espressif cadencé à 240 MHz avec les 3 Leds de présentation Verte, Jaune et Rouge
 * L'Arduino UNO-R3 cadencé à 16 MHz qui gère le module GPS et la Clé USB pour la lecture et l'enregistrement des traces GPS au format GPX et qui communique en UART avec la platine ESP32-WROOM-32D
-* Le Serial MP3 Player dans la version [KT403A](https://www.tinytronics.nl/en/seeed-studio-grove-mp3-v2-kt403a) avec sa carte SD qui contient l'ensemble des prompts à diffuser (près de 600 prompts enregistrés)
+* Le Serial MP3 Player dans la version [KT403A](https://www.tinytronics.nl/en/seeed-studio-grove-mp3-v2-kt403a) avec sa carte SD qui contient l'ensemble des prompts à diffuser (plus de 1000 prompts actuellement enregistrés)
   * Depuis, une version avec un [WT2003S](https://www.lextronic.fr/module-grove-mp3-107020069-56926.html) a éte implémentée en remplacement du KT403A qui n'est plus commercialisé
 * Le module Bluetooth avec les 2 oreillettes sans fil
   * A noter qu'une oreillette avec fils peut être connectée car l'autonomie des oreillettes Bluetooth n'excéde malheureusement pas 2 à 3 heures
