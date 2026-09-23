@@ -1,8 +1,8 @@
 # GpsCompass
 
 Ensemble du projet dans son boitier où l'on peut voir:
-* La platine ESP32-WROOM-32D de chez Espressif avec les 3 Leds de présentation Verte, Jaune et Rouge
-* L'Arduino UNO-R3 qui gère le module GPS et la Clé USB pour la lecture et l'enregistrement des traces GPS au format GPX et qui communique en UART avec la platine ESP32-WROOM-32D
+* La platine ESP32-WROOM-32D de chez Espressif cadencé à 240 MHz avec les 3 Leds de présentation Verte, Jaune et Rouge
+* L'Arduino UNO-R3 cadencé à 16 MHz qui gère le module GPS et la Clé USB pour la lecture et l'enregistrement des traces GPS au format GPX et qui communique en UART avec la platine ESP32-WROOM-32D
 * Le Serial MP3 Player à base dans sa version KT403A avec sa carte SD qui contient l'ensemble des prompts à diffuser (près de 600 prompts enregistrés)
   * Depuis, une version avec un WT2003S a éte implémentée en remplacement du KT403A qui n'est plus commercialisé
 * Le module Bluetooth avec les 2 oreillettes sans fil
