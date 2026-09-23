@@ -1,7 +1,6 @@
 # GpsCompass
 
-Projet basé sur une clé USB [ESP32-S3-GEEK](https://www.waveshare.com/wiki/ESP32-S3-GEEK) de la Société [Waveshare](https://github.com/waveshareteam)<br>
-![ESP32-S3-GEEK](600px-ESP32-S3-GEEK-introduction-02.png)
+![Boussole-Guidage-Vocal-A.jpg](Boussole-Guidage-Vocal-A.jpg)
 
 # Présentation du projet
 
@@ -42,3 +41,7 @@ Les caractéristiques de cette boussole sont :
  - Symbologies de fonctionnement par Leds (*watchdog*, *heartbeat*, acquisition / perte des signaux GPS, diffusion d'un message vocal en cours, état connecté / déconnecté d'appariement des oreillettes Bluetooth, codes et comptabilisations des erreurs, etc.)
 
 🔔 La partie GPS (enregistreur de traces et parcours de référence sur clé USB) est le bloc fonctionnel du projet Enregistreur de traces GPS raccordé à un nouveau bloc à base d'un ESP32 qui réalise tous les traitements et le pilotage d'un lecteur MP3 série relié à un transmetteur Bluetooth permettant une restitution vocale au moyen d'oreillettes sans fil.
+
+![Boussole-Guidage-Vocal-B.jpg](Boussole-Guidage-Vocal-B.jpg)
+![Boussole-Guidage-Vocal-C.jpg](Boussole-Guidage-Vocal-C.jpg)
+
