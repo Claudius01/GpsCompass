@@ -85,12 +85,12 @@
 
     - 1.3.0 - Abandon du projet 'https://github.com/espressif/arduino-esp32/tree/master/libraries/SD'
               au profit de '.../Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/SD' constitue des 5 fichiers:
-                -rwx------+ 1 Sara RUDEL None  2423  2 oct.   2019 SD.cpp
-                -rwx------+ 1 Sara RUDEL None  1241  2 oct.   2019 SD.h
-                -rwx------+ 1 Sara RUDEL None   799  2 oct.   2019 sd_defines.h
-                -rwx------+ 1 Sara RUDEL None 20277  2 oct.   2019 sd_diskio.cpp
-                -rwx------+ 1 Sara RUDEL None  1085  2 oct.   2019 sd_diskio.h
-                -rwx------+ 1 Sara RUDEL None  4938  2 oct.   2019 sd_diskio_crc.c
+                -rwx------+ 1 xxxx xxxxx None  2423  2 oct.   2019 SD.cpp
+                -rwx------+ 1 xxxx xxxxx None  1241  2 oct.   2019 SD.h
+                -rwx------+ 1 xxxx xxxxx None   799  2 oct.   2019 sd_defines.h
+                -rwx------+ 1 xxxx xxxxx None 20277  2 oct.   2019 sd_diskio.cpp
+                -rwx------+ 1 xxxx xxxxx None  1085  2 oct.   2019 sd_diskio.h
+                -rwx------+ 1 xxxx xxxxx None  4938  2 oct.   2019 sd_diskio_crc.c
 
               avec les differences indiquees dans 'README.txt'
               => Recopie locale du projet pour ajout de traces, de compteurs d'erreurs , etc. ;-)
